@@ -1,0 +1,145 @@
+[
+  {
+    "type": "canvas",
+    "question": "Comment relier les 9 points ci-dessous, en traçant 4 droites, sans jamais lever le crayon? "
+  },
+  {
+    "type": "question",
+    "question": "Amiens et Lille sont séparés de 100km. A 13h00, le train A part d’Amiens vers Lille et roule à une vitesse constante de 30km/h. Une heure plus tard, le train B part de Lille vers Amiens et roule à une vitesse constante de 40km/h. Chaque train fait un arrêt de quinze minutes en station à chaque fois qu’il parcourt 10km. Quel est le train le plus proche d’Amiens lorsqu’ils se croisent ?",
+    "answers": [
+      {
+        "content": "Le train A"
+      },
+      {
+        "content": "Le train B"
+      },
+      {
+        "content": "Les trains sont à la même distance",
+        "isCorrect": "True"
+      },
+      {
+        "content": "Le train B est déjà arrivé"
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "question": "La somme de 5 entiers multiples de 3 consécutifs est de 195. Quel est le plus petit de ces multiples de 3 ?",
+    "answers": [
+      {
+        "content": "18"
+      },
+      {
+        "content": "27"
+      },
+      {
+        "content": "30"
+      },
+      {
+        "content": "33",
+        "isCorrect": "True"
+      },
+      {
+        "content": "36"
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "question": "Lors d’une manifestation, les organisations syndicales dénombrent 8 fois plus de manifestants que de policiers. 84 arrestations sont faites, en moyenne 3 pour 2 policiers. Combien de manifestants y a-t-il au total ?",
+    "answers": [
+      {
+        "content": "548"
+      },
+      {
+        "content": "448",
+        "isCorrect": "True"
+      },
+      {
+        "content": "432"
+      },
+      {
+        "content": "321"
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "question": "Il y a 5 ans, Julien avait 5 fois l’âge de Nicolas, aujourd’hui Julien a 3 fois l’âge de Nicolas. Quel est l’âge de Nicolas ?",
+    "answers": [
+      {
+        "content": "2,5"
+      },
+      {
+        "content": "10",
+        "isCorrect": "True"
+      },
+      {
+        "content": "7,5"
+      },
+      {
+        "content": "15"
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "question": "Je viens d’acheter un disque au prix bon marché de 9,50 €. J’ai en effet bénéficié d’une remise de 28% sur le prix d’origine du disque. Justement, quel est, au dixième d’euro près, le prix d’origine (sans remise) du disque ?",
+    "answers": [
+      {
+        "content": "14.4"
+      },
+      {
+        "content": "13,9"
+      },
+      {
+        "content": "13,2",
+        "isCorrect": "True"
+      },
+      {
+        "content": "12,9"
+      },
+      {
+        "content": "12,5"
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "question": "Une batte de baseball et une balle coûtent 1,10€. La batte coûte un euro de plus que la balle. Combien coûte la balle ?",
+    "answers": [
+      {
+        "content": "0,50 €"
+      },
+      {
+        "content": "0,10 €"
+      },
+      {
+        "content": "0,05 €",
+        "isCorrect": "True"
+      },
+      {
+        "content": "0,15 €"
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "question": "Paul a acheté une boîte de stylos de différentes couleurs: bleu, noir et rouge. Combien de stylos doit-il sortir de la boîte, sans regarder, pour s'assurer qu'au moins cinq stylos sont de la même couleur ?",
+    "answers": [
+      {
+        "content": "12"
+      },
+      {
+        "content": "13",
+        "isCorrect": "True"
+      },
+      {
+        "content": "5"
+      },
+      {
+        "content": "15"
+      }
+    ]
+  }
+]
